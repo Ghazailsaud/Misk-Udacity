@@ -1,0 +1,4 @@
+python code project 
+for a rock paper scissors 
+it's a game 
+have fun
